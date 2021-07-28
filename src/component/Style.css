@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;
+    height: 100vh;
+    background: linear-gradient( to right, #7f53ac, #657ced);
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+input {
+    width: 90px;
+    color: #663399;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #202020;
+    font-size: 20px;
+    height: 25px;
+}
